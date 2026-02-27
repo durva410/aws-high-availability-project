@@ -27,7 +27,6 @@ The architecture ensures:
 - Target Group
 - Auto Scaling Group
 - Security Groups
-- Amazon VPC
 
 ---
 
