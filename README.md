@@ -82,14 +82,6 @@ The architecture ensures:
 - Understanding of Load Balancing concepts
 - Hands-on experience with Auto Scaling
 
----
-
-## 📌 Future Improvements
-
-- Add HTTPS using ACM
-- Implement CloudWatch Monitoring
-- CI/CD integration
-- Infrastructure as Code (Terraform)
 
 ---
 
